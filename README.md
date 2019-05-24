@@ -59,5 +59,5 @@ fn main() {
 ```
 
 ## License
-`hp-log` is distributed under the terms of the Apache License (Version 2.0).
+`HighPerformance` is distributed under the terms of the Apache License (Version 2.0).
 
