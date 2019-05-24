@@ -1,0 +1,20 @@
+# OFF  ERROR  WARN  INFO  DEBUG  TRACE 
+global_max_level = "TRACE"
+[console_conf]
+switch = true
+error = true
+warn = true 
+info = true 
+debug = true
+trace = true
+
+[file_conf]
+switch = true
+error = true
+warn = true 
+info = true 
+debug = true
+trace = true
+
+file_log_dir = "/tmp/log/" 
+file_temp_buf = "1048576"
